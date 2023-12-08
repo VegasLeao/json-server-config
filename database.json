@@ -1,0 +1,19 @@
+{
+  "produtos": [
+    {
+      "nome": "Xisbox 2",
+      "preco": "400",
+      "id": 2
+    },
+    {
+      "nome": "Playstation",
+      "preco": 4200,
+      "id": 3
+    },
+    {
+      "nome": "Iphone 20",
+      "preco": 8200,
+      "id": 4
+    }
+  ]
+}
